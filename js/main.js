@@ -46,9 +46,9 @@ const prevButton = document.querySelector('.carousel-control-prev');
 const nextButton = document.querySelector('.carousel-control-next');
 const mainBG =  document.querySelector('.bg-image');
 const backgroundImages = [
-  'url("../img/mainpic.webp")',
-  'url("../img/main2.webp")',
-  'url("../img/main3.webp")',
+  'url("./img/mainpic.webp")',
+  'url("./img/main2.webp")',
+  'url("./img/main3.webp")',
 ];
 const linearGradient = 'linear-gradient(rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20))';
 let currentIndex = 0;
