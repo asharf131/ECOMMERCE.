@@ -1,3 +1,8 @@
+// to product file 
+function toSecondPage() {
+  window.location.href = "/product.html";
+}
+
 
 // Function to add 'scrolled' class to navbar on scroll
 const navbar = document.querySelector('.navbar'),
@@ -105,10 +110,6 @@ function toggleScale(clickedCard) {
   clickedCard.classList.add('scaleCard');
 }
 
-
-function toSecondPage() {
-  window.open("/product.html")
-}
 
 
 
