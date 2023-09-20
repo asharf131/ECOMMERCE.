@@ -1,6 +1,6 @@
 // to product file 
 function toSecondPage() {
-  window.location.href = "asharf131.github.io/ECOMMERCE./product.html";
+  window.location.href = "ECOMMERCE./product.html";
 }
 
 
