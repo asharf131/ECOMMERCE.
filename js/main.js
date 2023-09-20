@@ -1,6 +1,6 @@
 // to product file 
 function toSecondPage() {
-  window.location.href = "ECOMMERCE./product.html";
+  window.location.href = "product.html";
 }
 
 
