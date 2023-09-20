@@ -4,7 +4,7 @@ function toSecondPage() {
 }
 
 
-// Function to add 'scrolled' class to navbar on scroll
+// Function to add 'scrolled' class to navbar on scroll.
 const navbar = document.querySelector('.navbar'),
   blackIconlink = document.querySelector('.blackIcon'),
   logowhitelink = document.querySelector('.logowhite'),
